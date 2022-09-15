@@ -1,0 +1,18 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "Project2"
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  },
+  {
+    "ParameterKey": "KeyPairName",
+    "ParameterValue": "instance-ssh-key"
+  },
+  {
+    "ParameterKey": "AMIId",
+    "ParameterValue": "ami-0729e439b6769d6ab"
+  }
+]
